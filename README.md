@@ -9,8 +9,8 @@ This guide will help you to start your new research project on GitHub. It will e
 #### 4. [Data Management Plan](https://github.com/schmelling/how_to_science_repo/tree/master/DMP)
 #### 5. [Roadmap](https://github.com/schmelling/how_to_science_repo/tree/master/ROADMAP)
 #### 6. [Open Lab Notebook](https://github.com/schmelling/how_to_science_repo/tree/master/OPEN_NOTEBOOK)
-#### 7. [Archiving]()
-#### 8. [Software Management]()
+#### 7. [Archiving](https://github.com/schmelling/how_to_science_repo/tree/master/ARCHIVING)
+#### 8. [Software Management](https://github.com/schmelling/how_to_science_repo/tree/master/SOFTWARE_MANAGEMENT)
 
 ## Getting started
 ### How to use git and GitHub
